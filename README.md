@@ -1,4 +1,4 @@
-# Découverte du Pattern Matching dans Ruby ?
+# Découverte du Pattern Matching dans Ruby
 
 [Mode présentation](https://pagehey.github.io/pattern-matching-prez)
 
